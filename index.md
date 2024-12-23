@@ -6,4 +6,8 @@ def somme_deux_nombres(a,b):
 ```
 # Changement du fichier 
 Voici ce qui a été changé dans ce fichier 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)  
+
+ - [x] Turn on Github pages
+ - [ ] Outline my portfolio
+ - [ ] Introduce myself to th world
+   
